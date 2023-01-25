@@ -1,5 +1,6 @@
 https://githubsfdeploy.herokuapp.com/?owner=kluptowski&repo=test-rep&ref=master
 
+Updated to remove buttons
 
 # Salesforce DX Project: Next Steps
 
