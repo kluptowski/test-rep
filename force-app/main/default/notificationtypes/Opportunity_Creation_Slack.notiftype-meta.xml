@@ -6,4 +6,5 @@
     <masterLabel>Opportunity Creation Slack</masterLabel>
     <mobile>false</mobile>
     <slack>true</slack>
+    <renderdefinition>test</renderdefinition>
 </CustomNotificationType>
